@@ -29,7 +29,13 @@ namespace EntityFrameworkcodesample
         //public void UpdateData()
         //{
         //    Employee emp = new Employee();
+        
+        //
 
         //}
+        public void add()
+        {
+            //added sample method
+        }
     }
 }
