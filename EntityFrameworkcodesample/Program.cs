@@ -37,5 +37,9 @@ namespace EntityFrameworkcodesample
         {
             //added sample method
         }
+        public void subtract()
+        {
+            //Added subtract method
+        }
     }
 }
